@@ -1,0 +1,38 @@
+body {
+    background-color:#a9acc1;
+}
+
+h1 {
+    font-size:70px;
+}
+
+h4 {
+    font-size:30px;
+    font-style:italic;
+}
+
+h3 {
+    font-size:40px;
+}
+
+h1, h3, h4 {
+    color:#0c375a;
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div.col-sm-4 > a > .device {
+    width:100%;
+}
+
+div.col-sm-6 > a > .device {
+    width:80%;
+}
+
+a.copyright {
+    color:#056663;
+}
+
+.milestone {
+    width:100%;
+}
