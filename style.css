@@ -36,3 +36,7 @@ a.copyright {
 .milestone {
     width:100%;
 }
+
+.italic {
+    font-style:italic;
+}
